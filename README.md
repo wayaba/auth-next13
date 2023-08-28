@@ -14,7 +14,7 @@ Endpoint para iniciar sesión con tu cuenta
 #### Body:
 ```
 {
-  email: 'mauro123@gmail.com,
+  email: 'pablo123@gmail.com,
   password: '123'
 }
 ```
@@ -25,7 +25,7 @@ Endpoint para crear una nueva cuenta
 #### Body:
 ```
 {
-  email: 'mauro1234@gmail.com,
+  email: 'pablo1234@gmail.com,
   password: '1234',
   confirmPassword: '1234'
 }
@@ -38,7 +38,7 @@ Endpoint para enviar el correo para cambiar la password
 #### Body:
 ```
 {
-  email: 'mauro1234@gmail.com,
+  email: 'pablo1234@gmail.com,
 }
 ```
 <hr />
